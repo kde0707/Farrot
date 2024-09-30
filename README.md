@@ -7,8 +7,9 @@
 </div>
 
 ## 🔗 Link
--  [Farrot 최종발표/영상 및 자료⭕](https://www.miricanvas.com/v/13opefh)
-
+-  [Farrot 최종발표/영상 및 자료 ⭕](https://www.miricanvas.com/v/13opefh)
+-  [Farrot Notion 📚](https://distinct-dinghy-f0c.notion.site/04f2d7ecba8f43feba12401690dd7846?v=ee36d65d2721455faa8e894dfb2423c9&pvs=4)
+  
 <br>
 
 ## 🗓️ 개발 기간 및 작업 관리
